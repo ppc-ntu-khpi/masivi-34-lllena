@@ -13,4 +13,4 @@
 * додано **javadoc-коментарі** для класу ```Main```, які пояснюють що саме обчислюється і які вихідні дані для цього потрібні
 
 ## Результат  
-<img src="https://github.com/ppc-ntu-khpi/masivi-34-lllena/blob/master/screenshot/img" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/masivi-34-lllena/blob/master/screenshot/img.jpg" width="100%"/>
